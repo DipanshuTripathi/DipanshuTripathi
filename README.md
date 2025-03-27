@@ -1,4 +1,4 @@
-# Hello World!, I'm Dipanshu, a Indian Web Developer 👋🏼:
+<p align="center">Hi Guys, I'm Dipanshu Tripathi 👋🏼</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-dipanshu-tripathi/i-dipanshu-tripathi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-dipanshu-tripathi/i-dipanshu-tripathi/output/github-snake.svg" />
